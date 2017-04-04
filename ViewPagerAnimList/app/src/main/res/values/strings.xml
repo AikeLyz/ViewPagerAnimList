@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ViewPagerAnimList</string>
+
+    <string-array name="pagetransform">
+        <item>AccordionPageTransformer</item>
+        <item>AlphaPageTransformer</item>
+        <item>CubePageTransformer</item>
+        <item>DefaultPageTransformer</item>
+        <item>DepthPageTransformer</item>
+        <item>FadePageTransformer</item>
+        <item>FlipPageTransformer</item>
+        <!--<item>GradientColorPageTransform</item> //渐变背景 用不到-->
+        <item>InRightDownTransformer</item>
+        <item>InRightUpTransformer</item>
+        <item>RotatePageTransformer</item>
+        <item>SimplerPageTransform</item> //简单的动画效果
+        <item>SlowBackgroundTransformer</item>
+        <item>StackPageTransformer</item>
+        <item>ZoomCenterPageTransformer</item>
+        <item>ZoomFadePageTransformer</item>
+        <item>ZoomOutPageTransformer</item>
+        <item>ZoomPageTransformer</item>
+        <item>ZoomStackPageTransformer</item>
+
+    </string-array>
+
+
+</resources>
