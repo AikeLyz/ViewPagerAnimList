@@ -30,7 +30,7 @@
 ![](https://raw.githubusercontent.com/AikeLyz/ViewPagerAnimList/master/gif/ViewPager动效5.gif)
 
 ### 示例 apk下载 ###
-- [https://github.com/AikeLyz/ViewPagerAnimList/blob/master/app-debug.apk?raw=true](https://github.com/AikeLyz/ViewPagerAnimList/blob/master/app-debug.apk?raw=true "下载apk")  
+- [https://fir.im/VPAnimList](https://fir.im/VPAnimList "下载apk")  
 
 
 ## 使用
