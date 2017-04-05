@@ -16,21 +16,11 @@
 
 ## 效果图与示例 apk
 
-![](https://raw.githubusercontent.com/AikeLyz/ViewPagerAnimList/master/gif/ViewPager动效1.gif)
-
-![](https://raw.githubusercontent.com/AikeLyz/ViewPagerAnimList/master/gif/ViewPager动效2.gif)
-
-
-![](https://raw.githubusercontent.com/AikeLyz/ViewPagerAnimList/master/gif/ViewPager动效3.gif)
-
-
-![](https://raw.githubusercontent.com/AikeLyz/ViewPagerAnimList/master/gif/ViewPager动效4.gif)
-
-
-![](https://raw.githubusercontent.com/AikeLyz/ViewPagerAnimList/master/gif/ViewPager动效5.gif)
+![](https://raw.githubusercontent.com/AikeLyz/ViewPagerAnimList/master/gif/ViewPager动效1.gif)![](https://raw.githubusercontent.com/AikeLyz/ViewPagerAnimList/master/gif/ViewPager动效2.gif)![](https://raw.githubusercontent.com/AikeLyz/ViewPagerAnimList/master/gif/ViewPager动效3.gif)![](https://raw.githubusercontent.com/AikeLyz/ViewPagerAnimList/master/gif/ViewPager动效4.gif)![](https://raw.githubusercontent.com/AikeLyz/ViewPagerAnimList/master/gif/ViewPager动效5.gif)
 
 ### 示例 apk下载 ###
-- [https://fir.im/VPAnimList](https://fir.im/VPAnimList "下载apk")  
+- [点击下载](https://fir.im/VPAnimList "下载apk")  
+
 
 
 ## 使用
